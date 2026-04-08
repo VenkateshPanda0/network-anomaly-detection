@@ -1,0 +1,12 @@
+node,label,score
+57.144.211.32,Suspicious,0.257
+10.30.202.10,Normal,0.83
+10.30.200.139,Weak Anomaly,0.0
+10.30.207.255,Weak Anomaly,0.008
+142.251.156.119,Suspicious,0.426
+142.250.205.69,Normal,0.921
+10.30.202.87,Weak Anomaly,0.0
+224.0.0.251,Weak Anomaly,0.0
+172.64.148.235,Suspicious,0.277
+10.30.201.133,Weak Anomaly,0.0
+10.30.201.48,Weak Anomaly,0.003
